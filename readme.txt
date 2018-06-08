@@ -18,4 +18,8 @@ add issue 101 bug
 =======
 add descc
 >>>>>>> dev
+<<<<<<< HEAD
 git bug
+=======
+git dev
+>>>>>>> dev
